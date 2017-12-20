@@ -3,7 +3,7 @@ It models embeddings of users in a twitter network in sequential manner. For exa
 based on the sequence in which users retweeted a source tweet.
 
 Below is the model:
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![RNN-Trust](https://github.com/BhavtoshRath/RNN-Trust/blob/master/RNN_model.png)
 
 In train-theano.py file,
 Initialize training and testing datasets in lines 9-12.
